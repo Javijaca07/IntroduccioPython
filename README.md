@@ -5,6 +5,6 @@
 # Bateria d'exercicis
 
 ## BAteria 1 
- , [Exercici 1](exercici1.py)
+ , [Exercici 1](bateria1.py)
 
 
