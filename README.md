@@ -8,3 +8,4 @@
 - [Exercici 2](bateria2.py)
 - [Exercici 3](bateria3.py)
 - [Exercici 4](bateria4.py)
+- [Exercici 4](bateria5.py)
