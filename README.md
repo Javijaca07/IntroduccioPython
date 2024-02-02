@@ -6,3 +6,8 @@ Benbingut al meu repositori de python
 # 
 
 , [Hollo world](hello_world.py)
+
+# Bateria d'exercicis
+
+## BAteria 1 
+
