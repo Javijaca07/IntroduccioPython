@@ -6,4 +6,4 @@
 
 ## Nau protagonista 
 
-!m14-pixilart
+![Nau protagonista](m14-pixilart.png)
