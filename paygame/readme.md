@@ -1,2 +1,2 @@
 # Projecte pygame
-##Farem un arcade de naus 
+## Farem un arcade de naus 
